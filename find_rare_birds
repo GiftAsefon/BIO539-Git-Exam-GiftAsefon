@@ -242,4 +242,5 @@ echo "- Found ${overall_count} species observed exactly once overall in US locat
 echo "- Found ${yearly_count} species observed exactly once in a particular year in US locations"
 echo "- Results saved to ${ONCE_OVERALL} and ${ONCE_YEARLY}"
 
+echo "Script completed successfully"
 exit 0
