@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 # Script: find_rare_birds
 # Description: Identifies rare bird sightings from FeederWatch CSV datasets (US locations only)
