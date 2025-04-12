@@ -4,7 +4,7 @@
 # Description: Identifies rare bird sightings from FeederWatch CSV datasets (US locations only)
 # Usage: find_rare_birds [list of csv files]
 
-# Check if csv file(s) were provided
+# Check if csv file(s) were provided and  return error if no file provided
 if [ $# -eq 0 ]; then
     echo "Error: No CSV files provided"
     echo "Usage: find_rare_birds [list of csv files]"
